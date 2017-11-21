@@ -1,0 +1,25 @@
+body {
+    background-color : green;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*div {
+    margin: 0px;
+    height: 20vh;
+    background-color: red;
+}*/
+
+.carte1 {
+    top: 2.5vh;
+}
+
+.carte2 {
+    top: 27.5vh;
+    left: 20px;
+}
+
+.verso {
+    background-image: url(cartes/back.png);
+    background-size: cover;
+}
